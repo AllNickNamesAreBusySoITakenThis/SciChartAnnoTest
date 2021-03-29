@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SciChartAnnoTest", "SciChartAnnoTest.csproj", "{FD9E792C-6A1D-46C0-9DAB-5F5F56557EAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragAndDropTest", "..\DragAndDropTest\DragAndDropTest.csproj", "{1C0B094B-8A1A-47A8-A193-D77D2D926AAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD9E792C-6A1D-46C0-9DAB-5F5F56557EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD9E792C-6A1D-46C0-9DAB-5F5F56557EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD9E792C-6A1D-46C0-9DAB-5F5F56557EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0B094B-8A1A-47A8-A193-D77D2D926AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0B094B-8A1A-47A8-A193-D77D2D926AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0B094B-8A1A-47A8-A193-D77D2D926AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0B094B-8A1A-47A8-A193-D77D2D926AAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
